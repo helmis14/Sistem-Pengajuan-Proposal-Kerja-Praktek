@@ -1,34 +1,22 @@
 <h1 align="center">Sistem Pengajuan Proposal</h1>
-<p> Helmi Sulaeman 5520119018 IF A 19</p>
+<p> Helmi Sulaeman</p>
 <p> Enjoy The Project </p>
 
 
 ## PREVIEW
 
-<p>Link Demo Web yang sudah dihosting <a href="http://immense-river-47392.herokuapp.com/">Klik Web</a></p>
 
-<p>Link Demo Video <a href="https://youtu.be/_3ySWTGIR-A">Klik Youtube</a></p>
 
-<p>Database</p>
-<img src="preview0.png"/>
+
 <p>Login Page</p>
-<img src="preview1.png"/>
-<p>Tampilan Di Android</p>
-<img src="preview9.jpg"/>
-<p>Dashboard Page</p>
-<img src="preview2.png"/>
-<p>User Page</p>
-<img src="preview3.png"/>
-<p>Pengelolaan Barang Page</p>
-<img src="preview4.png"/>
-<p>Kategori Barang Page</p>
-<img src="preview5.png"/>
-<p>Merek Barang Page</p>
-<img src="preview6.png"/>
-<p>Laporan Barang Masuk Page</p>
-<img src="preview7.png"/>
-<p>Laporan Barang Keluar Page</p>
-<img src="preview8.png"/>
+<img src="2.png"/>
+<p>Mahasiswa Dashboard</p>
+<img src="1.jpg"/>
+<p>Koor KP Dashboard</p>
+<img src="3.png"/>
+<p>Prodi Dashboard</p>
+<img src="4.png"/>
+
 
 
 ## Install
