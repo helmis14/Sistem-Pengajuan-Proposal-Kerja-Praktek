@@ -11,7 +11,7 @@
 <p>Login Page</p>
 <img src="2.png"/>
 <p>Mahasiswa Dashboard</p>
-<img src="3.jpg"/>
+<img src="3.png"/>
 <p>Koor KP Dashboard</p>
 <img src="5.png"/>
 <p>Prodi Dashboard</p>
@@ -53,18 +53,18 @@ php artisan serve
 
 ```sh
 Admin
-Email    : admin@unsur.com
-password : 123456
+Email    : koorkp@unsur.com
+password : koorkp123456
 ```
 
 ```sh
 User
-Email    : user@unsur.com
-password : 123456
+Email    : prodi@unsur.com
+password : prodi123456
 ```
 
 ```sh
 Pegawai
-Email    : pegawai@unsur.com
-password : 123456
+Email    : mahasiswa@unsur.com
+password : mahasiswa123456
 ```
