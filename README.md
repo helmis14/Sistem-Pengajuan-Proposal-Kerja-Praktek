@@ -9,7 +9,7 @@
 
 
 <p>Login Page</p>
-<img src="2.png"/>
+<img src="5.png"/>
 <p>Mahasiswa Dashboard</p>
 <img src="1.jpg"/>
 <p>Koor KP Dashboard</p>
