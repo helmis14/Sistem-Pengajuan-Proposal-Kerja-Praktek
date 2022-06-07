@@ -9,11 +9,11 @@
 
 
 <p>Login Page</p>
-<img src="5.png"/>
+<img src="2.png"/>
 <p>Mahasiswa Dashboard</p>
-<img src="1.jpg"/>
+<img src="3.jpg"/>
 <p>Koor KP Dashboard</p>
-<img src="3.png"/>
+<img src="5.png"/>
 <p>Prodi Dashboard</p>
 <img src="4.png"/>
 
